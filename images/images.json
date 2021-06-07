@@ -1,0 +1,44 @@
+{
+    "images":[
+        {
+            "name":"Ichha Hotel",
+            "price":"$180",
+            "star":"4.5",
+            "dec":"This is hotel",
+            "location":"Bara",
+            "image":"images/hotel1.jpg"
+
+
+        },
+        {
+            "name":" Hotel Merriot",
+            "price":"$180",
+            "star":"4.5",
+            "dec":"This is hotel",
+            "location":"Kathamandu",
+            "image":"images/hotel2.jpg"
+
+
+        },
+        {
+            "name":"Yak and Yeti",
+            "price":"$180",
+            "star":"4.5",
+            "dec":"This is hotel",
+            "location":"Kathamandu",
+            "image":"images/hotel3.jpg"
+
+
+        },
+        {
+            "name":"Hotel star",
+            "price":"$180",
+            "star":"4.5",
+            "dec":"This is hotel",
+            "location":"Thamel",
+            "image":"images/hotel4.jpg"
+
+
+        }
+    ]
+}
